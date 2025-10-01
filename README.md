@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @RajKumarKushawaha
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning Web development
-- 💞️ I’m looking to collaborate on Open-source projects
-- 📫 How to reach me @mr_raj388 on instagram
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Not yet discovered
+# Hi there 👋, I'm RajKumar Kushawaha
+
+## 👀 About Me
+- I’m interested in **software development**.  
+- Currently learning **Java Development**.  
+- Open to collaborating on **open-source projects**.  
+
+## 💻 Skills
+- Languages: Java, C, JavaScript, SQL, HTML, CSS  
+- Frameworks/Libraries: React, Node.js, Bootstrap  
+- Tools/IDEs: Git, VS Code, IntelliJ IDEA, Eclipse  
+
+## 📫 How to Reach Me
+- LinkedIn: [Raj Kumar Kushawaha](https://www.linkedin.com/in/rajkumar-kushwaha-949976301/) 
+- GitHub: [@RajKumarKushawaha](https://github.com/RajKumarKushawaha)  
+
+## 😄 Pronouns
+- He/Him  
+
+## ⚡ Fun Fact
+- Still exploring new technologies and ideas!  
+
 
 <!---
 RajKumarKushawaha/RajKumarKushawaha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
